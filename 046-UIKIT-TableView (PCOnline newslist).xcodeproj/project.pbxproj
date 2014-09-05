@@ -779,6 +779,7 @@
 				B2FFA26819ADC0C4006F8FE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2FFA26919ADC0C4006F8FE1 /* Build configuration list for PBXNativeTarget "046-UIKIT-TableView (PCOnline newslist)Tests" */ = {
 			isa = XCConfigurationList;
@@ -787,6 +788,7 @@
 				B2FFA26B19ADC0C4006F8FE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
